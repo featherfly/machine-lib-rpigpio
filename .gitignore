@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+build
+dist
+machine_lib_rpigpio.egg-info
